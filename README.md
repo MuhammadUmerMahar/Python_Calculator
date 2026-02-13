@@ -19,4 +19,3 @@ else:
         print("Invalid operator. Please try again using (+, -, *, /).")
 
 print("Wish you all the best. Have a nice day!")
-

@@ -2,4 +2,3 @@
 Calculator in python
 <br>
 Simple Calculator.
-Hi!!

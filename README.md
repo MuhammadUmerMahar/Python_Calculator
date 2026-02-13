@@ -1,4 +1,3 @@
-# Python_Calculator
 try:
     a = int(input("Enter first number: "))
     b = int(input("Enter second number: "))
@@ -19,5 +18,5 @@ else:
     else:
         print("Invalid operator. Please try again using (+, -, *, /).")
 
-print("Wish you all the best. Have a nice day! 💖")
+print("Wish you all the best. Have a nice day!")
 
